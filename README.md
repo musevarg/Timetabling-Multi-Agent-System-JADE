@@ -5,7 +5,7 @@ A multi-agent system that aims to help students swap tutorial/practical slots wi
 
 ## Ontology
 
-The ontology used attempts to represent reality as much as possible. A number of concepts,
+The [ontology](https://github.com/musevarg/Timetabling-Multi-Agent-System-JADE/tree/main/Code/src/timetabling/ontology/elements) used attempts to represent reality as much as possible. A number of concepts,
 predicates and agent actions have been defined to represent real life situations or actors (such as the staff
 involved in making timetables and students).
 
